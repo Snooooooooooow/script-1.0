@@ -126,5 +126,5 @@ if __name__ == "__main__":
 
 
 
-
 #Fonte StackOverflow,Reddit,w3schools
+#Escrito em python 3.0 usando zed
